@@ -1,0 +1,14 @@
+{
+ "card":
+  {
+   "bank_name":"yes bank",
+    "card_vendor":"rupay card",
+    "card_holder_name":"sai jeevan kumar",
+    "card_number":"8050 8050 8050 8050",
+    "expire_month":12,
+    "expire_year":24,
+    "validity":true,
+    "status":"active",
+    "type":"virtual",
+  }
+}
